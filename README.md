@@ -2,46 +2,38 @@
 
 🎓 Computer Science Student  
 💻 .NET Backend Developer  
-🚀 Passionate about building scalable backend systems and clean architecture  
+🚀 Passionate about building scalable backend systems using clean architecture  
 
 ---
 
 ## 🧑‍💻 About Me
-- Computer Science student with strong interest in backend development  
-- Specialized in **.NET & C#**  
-- Solid understanding of **Data Structures, OOP, and Databases**  
+- Computer Science student specialized in **Backend Development**
+- Good experience with **Databases, APIs, and clean code practices**
 - Always learning and improving problem-solving skills  
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** C#, C++
-- **Backend:** ASP.NET Core, Web API
-- **Database:** SQL Server
-- **Concepts:** OOP, SOLID Principles, Clean Architecture
-- **Tools:** Git, GitHub, Visual Studio
+### 🔹 Languages
+- C#
+- C++
 
----
+### 🔹 Backend & Frameworks
+- ASP.NET Core MVC
+- ASP.NET Core Web Api
 
-## 📚 Currently Learning
-- Advanced ASP.NET Core
-- Design Patterns
-- Data Structures & Algorithms
-- Artificial Intelligence fundamentals
 
----
+### 🔹 Database & ORM
+- SQL Server
+- Entity Framework Core (EF Core)
+- LINQ
 
-## 📌 Featured Projects
-- 🛒 E-Commerce Backend (ASP.NET Core)
-- 📦 RESTful APIs with JWT Authentication
-- 📊 Database-driven applications with SQL Server
+### 🔹 Software Engineering Concepts
+- OOP
+- SOLID Principles
+- Clean Architecture
+- Design Patterns (Basics)
 
----
-
-## 📈 Goals
-- Become a professional Backend Engineer  
-- Build real-world scalable systems  
-- Master .NET ecosystem  
 
 ---
 
@@ -51,4 +43,4 @@
 
 ---
 
-⭐ Feel free to check my repositories and projects!
+⭐ Feel free to explore my repositories and projects!
