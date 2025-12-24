@@ -38,9 +38,7 @@
 ---
 
 ## 📫 Contact Me
-- LinkedIn: https://linkedin.com/in/your-link  
-- GitHub: https://github.com/your-username  
-
+- LinkedIn: https://linkedin.com/in/nour-eldeen-03b182388
 ---
 
 ⭐ Feel free to explore my repositories and projects!
